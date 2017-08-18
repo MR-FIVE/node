@@ -1,0 +1,15 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "nodejs 小爬虫",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "craeler",
+    "nodejs"
+  ],
+  "author": "MR-FIVE",
+  "license": "ISC"
+}
